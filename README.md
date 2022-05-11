@@ -15,3 +15,13 @@ Its an Resource Oriented Programm as it uses core things called resource which d
 Chapter 2 Day 1
 
 https://play.onflow.org/cdcc9393-6a2c-4a40-a9e4-0b709fe492d4?type=script&id=29b1e3ce-b4cc-42b3-ad7d-e41d695670a6&storage=none
+
+Chapter 2 Day 2
+
+AuthAccount in prepare phase of transaction is use to access data in the account created on the flow
+prepare phrase in transaction is used to access the information/data in the account while the execute phase is used to call functions and do stuff to change the data on the blockchain
+https://play.onflow.org/cdcc9393-6a2c-4a40-a9e4-0b709fe492d4?type=script&id=60140ab1-5211-4869-8b48-24981f1be550&storage=none
+
+Chapter 2 Day 3
+
+https://play.onflow.org/cdcc9393-6a2c-4a40-a9e4-0b709fe492d4?type=script&id=0ee2a8f8-3e05-4167-a3bc-c88500856ac1&storage=none
